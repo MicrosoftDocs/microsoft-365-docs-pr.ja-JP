@@ -37,10 +37,10 @@
 ### [給与](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [キャンセル](/Office365/Admin/subscriptions-and-billing/cancel-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## パイロット
-### [自動操縦デバイスとプロファイルを追加する](add-autopilot-devices-and-profile.md)
+### [AutoPilot デバイスとプロファイルを追加する](add-autopilot-devices-and-profile.md)
 ### [AutoPilot プロファイルの作成と編集](create-and-edit-autopilot-profiles.md)
 ### [AutoPilot デバイスの作成と編集](create-and-edit-autopilot-devices.md)
-### [自動操縦プロファイルの設定](autopilot-profile-settings.md)
+### [AutoPilot プロファイルの設定](autopilot-profile-settings.md)
 ### [デバイス状態](device-states.md)
 ## [Microsoft 365 Business FAQ](support/microsoft-365-business-faqs.md)
 # [Office 365 Enterprise](https://docs.microsoft.com/office365/enterprise)
