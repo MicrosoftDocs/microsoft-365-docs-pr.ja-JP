@@ -21,7 +21,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
-description: '自動操縦プロファイルを作成、編集、削除、または削除する方法について説明します。 '
+description: 'AutoPilot プロファイルを作成、編集、削除、または削除する方法について説明します。 '
 ms.openlocfilehash: 7987cafb3ea234d81be72c79aee8e584a3770875
 ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
@@ -35,9 +35,9 @@ ms.locfileid: "34073492"
 
 プロファイルがデバイスまたはデバイスのグループに割り当てられます。
   
-1. Microsoft 365 Business 管理センターで、[**デバイス** \> **自動操縦**] を選択します。
+1. Microsoft 365 Business 管理センターで、[**デバイス** \> **AutoPilot**] を選択します。
   
-2. [**自動操縦**] ページで、 **** [プロファイル\> ] タブを選択して**プロファイルを作成**します。
+2. [**AutoPilot**] ページで、 **** [プロファイル\> ] タブを選択して**プロファイルを作成**します。
     
 3. [ **プロファイルの作成**] ページで、識別に役立つプロファイルの名前を入力します。たとえば、マーケティングでは、必要な設定をオンにして (詳細については、「[AutoPilot プロファイルの設定について](autopilot-profile-settings.md)」を参照)、[ **保存**] を選びます。
     
