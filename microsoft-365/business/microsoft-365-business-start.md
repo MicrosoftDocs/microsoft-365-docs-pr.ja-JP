@@ -45,7 +45,7 @@ microsoft 365 Business は最大300ライセンスを想定しており、さら
 
  **Microsoft 365 Business Suite のセットアップの概要**
   
-次の図では、管理者が Microsoft 365 Business をセットアップする方法について説明します。 また、Microsoft 365 Business 用に Windows pc を準備する手順についても説明します。 また、 [Windows 自動操縦](add-autopilot-devices-and-profile.md)を使用して、Microsoft 365 Business 管理センターで新しいデバイスを追加することもできます。 自動操縦を使用して、新しいデバイスをセットアップして事前構成し、ユーザーが Microsoft 365 のビジネス資格情報を使用してサインインするとすぐに生産性を向上させることができます。
+次の図では、管理者が Microsoft 365 Business をセットアップする方法について説明します。 また、Microsoft 365 Business 用に Windows pc を準備する手順についても説明します。 また、 [Windows AutoPilot](add-autopilot-devices-and-profile.md)を使用して、Microsoft 365 Business 管理センターで新しいデバイスを追加することもできます。 AutoPilotを使用して、新しいデバイスをセットアップして事前構成し、ユーザーが Microsoft 365 のビジネス資格情報を使用してサインインするとすぐに生産性を向上させることができます。
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
@@ -73,7 +73,7 @@ microsoft 365 Business は最大300ライセンスを想定しており、さら
   
 ### <a name="3-prepare-pcs"></a>3: pc の準備
 
-管理者は、 [windows 自動操縦](add-autopilot-devices-and-profile.md)を使用して、新しいデバイスの windows 10 pc の設定を事前に選択できます。 ユーザーは、このトピックの手順に従って、既存または新しい windows 10 デバイスをセットアップできます。 [Microsoft 365 Business ユーザーの windows pc をセットアップ](set-up-windows-devices.md)します。 既存のデバイスでは、ユーザーは**オプション**で[ファイルを OneDrive for business に移動](move-files-to-onedrive.md)することもできます。 サードパーティ製のツールを使用して、Windows プロファイルに関連付けられているファイルを OneDrive に移動することもできます。
+管理者は、 [windows AutoPilot](add-autopilot-devices-and-profile.md)を使用して、新しいデバイスの windows 10 pc の設定を事前に選択できます。 ユーザーは、このトピックの手順に従って、既存または新しい windows 10 デバイスをセットアップできます。 [Microsoft 365 Business ユーザーの windows pc をセットアップ](set-up-windows-devices.md)します。 既存のデバイスでは、ユーザーは**オプション**で[ファイルを OneDrive for business に移動](move-files-to-onedrive.md)することもできます。 サードパーティ製のツールを使用して、Windows プロファイルに関連付けられているファイルを OneDrive に移動することもできます。
   
 組織がオンプレミスの windows Server Active Directory を使用している場合は、windows 10 のデバイスを保護するように Microsoft 365 Business をセットアップし、ローカル認証を必要とするオンプレミスのリソースへのアクセスを維持することができます。 「[ドメインに参加している Windows 10 デバイスが Microsoft 365 Business で管理される](manage-windows-devices.md)ようにする」の手順に従って、これを設定します。 この方法は推奨されており、この状態のデバイスは**ハイブリッド Azure AD 参加デバイス**と呼ばれます。 
   
