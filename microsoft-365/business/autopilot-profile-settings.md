@@ -25,7 +25,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: 自動操縦プロファイルは、ユーザーデバイスへの Windows のインストール方法を制御するのに役立ちます。 プロファイルには、Cortana のインストールをスキップするなどの、既定の設定とオプションの設定が含まれています。
+description: AutoPilot プロファイルは、ユーザーデバイスへの Windows のインストール方法を制御するのに役立ちます。 プロファイルには、Cortana のインストールをスキップするなどの、既定の設定とオプションの設定が含まれています。
 ms.openlocfilehash: adc8112861b67fd96a91ff24dc155aeb0c394532
 ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
@@ -37,9 +37,9 @@ ms.locfileid: "34071862"
 
 ## <a name="autopilot-profile-settings"></a>AutoPilot プロファイルの設定について
 
-自動操縦プロファイルを使用して、ユーザーのデバイスに Windows をインストールする方法を制御できます。 プロファイルには、次の設定が含まれています。
+AutoPilot プロファイルを使用して、ユーザーのデバイスに Windows をインストールする方法を制御できます。 プロファイルには、次の設定が含まれています。
   
- **自動操縦既定の機能 (必須) は、自動的に設定されます。**
+ **AutoPilot 既定の機能 (必須) は、自動的に設定されます。**
   
 |**設定**|**説明**|
 |:-----|:-----|
