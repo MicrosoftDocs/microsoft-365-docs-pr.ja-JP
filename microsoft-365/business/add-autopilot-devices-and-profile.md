@@ -19,7 +19,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: Windows 自動操縦を使用して、ビジネス用に新しい Windows 10 デバイスをセットアップする方法について説明します。
+description: Windows AutoPilotを使用して、ビジネス用に新しい Windows 10 デバイスをセットアップする方法について説明します。
 ms.openlocfilehash: 9a70978156fb26ac3aad08f1758b7ee125067d38
 ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
@@ -29,7 +29,7 @@ ms.locfileid: "34072152"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>ステップ バイ ステップ ガイドを使用して、Autopilot デバイスとプロファイルを追加する
 
-Windows 自動操縦を使用して、従業員に提供されるとすぐに生産性を高めることができるように、自社の**新しい**windows 10 デバイスをセットアップすることができます。
+Windows AutoPilotを使用して、従業員に提供されるとすぐに生産性を高めることができるように、自社の**新しい**windows 10 デバイスをセットアップすることができます。
   
 ## <a name="device-requirements"></a>デバイスの要件
 
@@ -47,11 +47,11 @@ Windows 自動操縦を使用して、従業員に提供されるとすぐに生
   
 1. の管理センターに移動<a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>します。
 
-2. 左側のナビゲーションで、[**デバイス** \>の**自動操縦**] を選択します。
+2. 左側のナビゲーションで、[**デバイス** \>の**AutoPilot**] を選択します。
 
-    ![管理センターで、[デバイス] を選択し、[自動操縦] をクリックします。](media/AutoPilot.png)
+    ![管理センターで、[デバイス] を選択し、[AutoPilot] をクリックします。](media/AutoPilot.png)
   
-2. [**自動操縦**] ページで、[**スタートガイド**] をクリックまたはタップします。
+2. [**AutoPilot**] ページで、[**スタートガイド**] をクリックまたはタップします。
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
