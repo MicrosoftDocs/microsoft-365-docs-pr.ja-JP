@@ -73,9 +73,9 @@ ms.locfileid: "33970454"
 - ユーザーが Windows およびデバイス用の[Office アプリをインストール](https://docs.microsoft.com/office365/admin/setup/install-applications)できるようにします。
      
 ## <a name="advanced"></a>詳細情報
-- **自動操縦を使用して新しいデバイスをセットアップする**
+- **AutoPilotを使用して新しいデバイスをセットアップする**
             
-     [Windows 自動操縦](add-autopilot-devices-and-profile.md)を使用して、ユーザーに対して**新しい**windows 10 デバイスを自動的に事前構成することができますが、これを実行できる[パートナー](https://www.microsoft.com/solution-providers/search)を取得する方が簡単な場合があります。 [Microsoft ストア](https://go.microsoft.com/fwlink/?linkid=874598)に移動して、クラウドテクノロジエキスパートに購入した新しいデバイスのセットアップを依頼することもできます。
+     [Windows AutoPilot](add-autopilot-devices-and-profile.md)を使用して、ユーザーに対して**新しい**windows 10 デバイスを自動的に事前構成することができますが、これを実行できる[パートナー](https://www.microsoft.com/solution-providers/search)を取得する方が簡単な場合があります。 [Microsoft ストア](https://go.microsoft.com/fwlink/?linkid=874598)に移動して、クラウドテクノロジエキスパートに購入した新しいデバイスのセットアップを依頼することもできます。
 
 - **オンプレミスのリソースにアクセスする**
 
