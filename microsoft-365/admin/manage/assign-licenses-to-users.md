@@ -234,8 +234,7 @@ ms.locfileid: "44399838"
 
 - グローバル管理者、課金管理者、ライセンス管理者、またはユーザー管理の管理者のいずれかである必要があります。詳細については、「[Microsoft 365 の管理者ロールについて](../add-users/about-admin-roles.md)」を参照してください。
 
-- 
-            [Office 365 PowerShell を使用してライセンスをユーザー アカウントに割り当てる](https://go.microsoft.com/fwlink/p/?linkid=850410)ことができます。
+- [Office 365 PowerShell を使用してライセンスをユーザー アカウントに割り当てる](https://go.microsoft.com/fwlink/p/?linkid=850410)ことができます。
 
 - この手順は、既存のユーザー アカウントの 1 つにライセンスを追加するときに使用します。ユーザー アカウントを追加すると同時にライセンスを割り当てる方法については、[こちら](../add-users/add-users.md)を参照してください。
 
